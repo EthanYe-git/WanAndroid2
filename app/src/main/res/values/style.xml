@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="style_text_secondary">
+        <item name="android:textColor">@color/colorSecondaryText</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">15dp</item>
+    </style>
+    <style name="style_text_mainly">
+        <item name="android:textColor">@color/colorMainlyText</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Text</item>
+    </style>
+
+    <style name="style_text_title">
+        <item name="android:textColor">@color/colorMainlyText</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Article Title</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+</resources>

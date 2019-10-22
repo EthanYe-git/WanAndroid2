@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WanAndroid2</string>
+    <string name="item_message">你可以自己写一个app , 分享文章给大家 , 看看面试题 , 学习每日一问 , 领取极客时间大礼包 , 还能速查一些信息 。</string>
+    <string name="item_square_text">你可以点击 分享文章 ，你可以分享任何一篇觉得不错的文章，每日首次分享加积分哟！
+目前争取福利 极客时间 199 礼包，仅可领取一次，会过期，有需要再领。
+广场API已经完全开放： 点击直达。</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">广场</string>
+    <string name="title_activity_main">WanAndroidDemo</string>
+</resources>
